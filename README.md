@@ -1,2 +1,13 @@
 # roketez
-Web Design
+## Webdesign for roketez website (Landing Page)
+
+###### Indesign Canvas
+
+- [x] Nav bar uppdated (Fixed on top hover) Mobile Hamburger Icon (Works)
+- [x] Tone color used is Pastel (Light blue and Danger Red (Button))
+- [x] Video link to youtube
+- [ ] Video Pop up 
+
+###### Logo
+![GitHub Logo](/images/logo/roketez 1.png)
+Format: ![Alt Text](images/logo/roketez 1.png)
