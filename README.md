@@ -9,5 +9,5 @@
 - [ ] Video Pop up 
 
 ###### Logo
-
+![Image of Roketez](https://github.com/DavilaKing/roketez/blob/master/images/logo/roketez%201.png)
 
