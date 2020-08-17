@@ -9,5 +9,5 @@
 - [ ] Video Pop up 
 
 ###### Logo
-![GitHub Logo](/images/logo/roketez 1.png)
-Format: ![Alt Text](images/logo/roketez 1.png)
+
+
